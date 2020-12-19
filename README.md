@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my blog and being a better developer.
 - 🌱 I’m currently learning HTML & CSS & Javascript.
 - 💬 Ask me about my dog.
-- 📫 How to reach me: [Twitter](www.twitter.com/mattmcelhannon), [Instagram](www.instagram.com/mattmcelhannon)
+- 📫 How to reach me: [Twitter](https://twitter.com/MattMcElhannon), [Instagram](https://www.instagram.com/mattmcelhannon/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Writer/Producer at Warner Bros. in Burbank, CA
 
