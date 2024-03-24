@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning HTML & CSS & Javascript.
 - 💬 Ask me about my dog.
 - 📫 How to reach me: [Twitter](https://twitter.com/MattMcElhannon), [Instagram](https://www.instagram.com/mattmcelhannon/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Senior Writer/Producer at Warner Bros. in Burbank, CA
 
 <!--
