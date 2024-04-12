@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my blog and being a better developer.
-- 🌱 I’m currently learning HTML & CSS & Javascript.
+- 🌱 I’m currently learning HTML & CSS & Javascript through The Odin Project.
 - 💬 Ask me about my dog.
 - 📫 How to reach me: [Twitter](https://twitter.com/MattMcElhannon), [Instagram](https://www.instagram.com/mattmcelhannon/)
 - ⚡ Fun fact: I'm a Senior Writer/Producer at Warner Bros. in Burbank, CA
